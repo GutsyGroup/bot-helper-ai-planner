@@ -4,7 +4,7 @@
   "description_for_model": "Toolkit for managing PRDs, plans, and codebases via GPT. Exposes endpoints for PRD, plan, codebase, and decision management.",
   "api": {
     "type": "openapi",
-    "url": "https://yourdomain.com/openapi.yaml",
+    "url": "https://github.com/GutsyGroup/bot-helper-ai-planner/blob/61cda166dedd0f25a12822e6a1d9dded2d3572a4/docs/openapi.yaml",
     "is_user_authenticated": false
   },
   "auth": {"type": "none"},
